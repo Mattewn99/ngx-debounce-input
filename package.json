@@ -1,6 +1,9 @@
 {
   "name": "@mattewn99/ngx-debounce-input",
   "version": "1.0.0",
+  "authors": [
+    "Matteo Nista <matteo.nista.99@gmail.com>"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,6 +13,24 @@
     "e2e": "ng e2e",
     "build:lib": "ng build input --prod"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mattewn99/ngx-debounce-input.git"
+  },
+  "keywords": [
+    "angular",
+    "directive",
+    "typescript",
+    "ngx-debounce",
+    "ngx-debounce-input",
+    "angular debounce input",
+    "angular debounce search",
+    "angular 7",
+    "angular 8",
+    "angular 9",
+    "angular 10",
+    "angular 11"
+  ],
   "private": true,
   "dependencies": {
     "@angular/animations": "~9.0.0",
