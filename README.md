@@ -5,7 +5,7 @@ A simple Angular2+ directive that adds a debounce to your input fields 🚀
 ## Installation:
 
 ```bash
-npm i ngx-debounce-input --save
+npm i @mattewn99/ngx-debounce-input
 ```
 
 ## Use Example:

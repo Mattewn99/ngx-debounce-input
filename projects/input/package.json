@@ -1,6 +1,7 @@
 {
   "name": "@mattewn99/ngx-debounce-input",
   "version": "1.0.0",
+  "description": "A simple Angular2+ directive that adds a debounce to your input fields",
   "authors": [
     "Matteo Nista <matteo.nista.99@gmail.com>"
   ],
