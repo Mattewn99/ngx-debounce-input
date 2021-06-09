@@ -23,13 +23,13 @@ npm i @mattewn99/ngx-debounce-input
 Add the declaration to `@NgModule`:
 
 ```typescript
-import { NgxDebounceInput } from 'ngx-debounce-input';
+import { NgxDebounceInputModule } from '@mattewn99/ngx-debounce-input';
 
 ...
 
 @NgModule({
   imports: [
-    NgxDebounceInput
+    NgxDebounceInputModule
   ]
 })
 ```
